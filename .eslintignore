@@ -2,3 +2,4 @@
 /assets/dist
 stencil.conf.js
 webpack.conf.js
+/assets/js/theme/global/add-three-products.js
